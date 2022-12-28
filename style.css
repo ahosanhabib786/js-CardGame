@@ -4,6 +4,8 @@
     --num-cards:4;
     --card-horizontal-space:100px;
 }
+
+
 body{
     height: 100vh;
 }
